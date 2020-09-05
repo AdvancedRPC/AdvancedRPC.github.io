@@ -1,0 +1,19 @@
+body    {
+    font-family: 'Kumbh Sans', sans-serif;
+    text-align: center;
+}
+
+.header {
+    font-size: 5rem;
+}
+
+.header-container   {
+    background: #494949;
+    color: white;
+    padding-bottom: 20%;
+    padding-top: 20%;
+}
+
+svg {
+    background: #494949;
+}
