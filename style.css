@@ -3,17 +3,42 @@ body    {
     text-align: center;
 }
 
+html    {
+    scroll-behavior: smooth;
+}
+
 .header {
     font-size: 5rem;
 }
 
 .header-container   {
-    background: #494949;
+    background: #303030;
     color: white;
     padding-bottom: 20%;
     padding-top: 20%;
 }
 
-svg {
-    background: #494949;
+svg.white {
+    background: #303030;
+}
+
+svg.dark-white  {
+    background: #fff;
+}
+
+div.dark-white {
+    background: #f3f4f5;
+}
+
+svg.light-black {
+    background: #f3f4f5;
+}
+
+div.dark-black  {
+    background: #303030;
+    color: white;
+}
+
+svg.dark-black-to-white   {
+    background: #303030;
 }
