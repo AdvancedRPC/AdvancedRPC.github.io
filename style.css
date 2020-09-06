@@ -39,6 +39,15 @@ div.dark-black  {
     color: white;
 }
 
-svg.dark-black-to-white   {
-    background: #303030;
+.dark-black svg   {
+    background: #ffffff;
+}
+
+svg {
+    border: none;
+    z-index: auto;
+}
+
+#dwtb   {
+    background: #303030
 }
